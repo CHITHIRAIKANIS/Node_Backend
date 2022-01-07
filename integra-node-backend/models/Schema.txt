@@ -1,0 +1,17 @@
+Schema
+||
+Model
+||
+Save in mongoose
+||
+Call the mongodb function insertOne
+
+
+404: Bad request
+401: Unauthorised => Authentication err (Username/Password incorrect)
+403: Forbidden error => Authorisation error
+404: Page not found
+500: Internal server error
+504: Gateway Timeout
+200: OK
+201: Created 
